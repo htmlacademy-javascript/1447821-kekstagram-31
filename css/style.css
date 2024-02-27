@@ -19,7 +19,7 @@
   font-display: swap;
 }
 
-*,
+*
 *::before,
 *::after {
   -webkit-box-sizing: border-box;
@@ -170,7 +170,7 @@ main {
 }
 
 .img-filters__radio:focus + .img-filters__label {
-  outline: auto 5px highlight;
+  outline: auto 5px high light;
 }
 
 .img-filters__radio:checked + .img-filters__label {
